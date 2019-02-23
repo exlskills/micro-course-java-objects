@@ -2,7 +2,7 @@ url_name: objects_java
 display_name: Java Objects
 org: EXLskills
 course: objects_java
-course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/micro-course-java-objects.jpg
+course_image: https://cdn-course-logos.exlskills.com/micro-course-java-objects.jpg
 language: en
 est_minutes: 180
 primary_topic: Java
